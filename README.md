@@ -1,4 +1,5 @@
 # WorkFlow
+Node.js server providing authentication, used by a GraphQL API for the web application WorkFlow.
 
 WorkFlow is a React web application that uses GraphQL as its API. The app is designed to help companies track employee hours, job progress, and inventory levels. The app is built with Node.js and a GraphQL API, with a NoSQL database (MongoDB) for storing employee and job data.
 
